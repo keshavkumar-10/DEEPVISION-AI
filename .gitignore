@@ -1,0 +1,24 @@
+# Environment files
+.env
+venv/
+venv310/
+
+# Compiled files
+*.pyc
+__pycache__/
+
+# Binary files
+*.exe
+*.dll
+*.pkl
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Streamlit and Python cache
+*.log
+*.sqlite3
+
+# VSCode-specific settings (optional)
+.vscode/
